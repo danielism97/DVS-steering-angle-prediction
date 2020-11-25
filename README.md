@@ -1,5 +1,5 @@
-# Third Year Project
-This repository contains work done by the author for third year project.
+# Deep Learning of Silicon Retina Cameras for Steering Angle Prediction
+BEng thesis.
 
 ## Contents
 ### datasets
